@@ -1,0 +1,2 @@
+# fernando-str-msg
+RandomStrMsgs
